@@ -1,0 +1,73 @@
+Topics:
+
+  CSS OverFlow:
+
+    overflow: visible; // shows the overflowing content
+    overflow: hidden; // hides the overflowing content 
+    overflow: clip; // Clips the overflowing content
+    overflow: scroll; // adds scroll bar on both axis to see the overflowing content
+    overflow: auto; // automatically adds scroll bar for the overflowing content
+
+    text-overflow: clip/ellipsis;
+
+  1. Git Download & Installation
+
+  2. Do everyone have GitHub account ? No, Please create one 
+
+  3. Do everyone have Netlify Account ? No, Please create one
+
+
+  Development Codes:
+    Git, Github/Gitlab/Bitbucket:
+
+      Git - tool used for SCM ( Source Control Management )
+
+      Github - SCM Website/Application uses Git to store & retrieve codebase/source files
+
+      repo: folder/project name to store files under one
+
+      local:
+        local system having the files developed
+
+      Remote: Github/Gitlab/Bitbucket
+        Cloud system to store the files in Cloud
+
+      VSCode Function similar to Above CMDs:
+        Fresh New Repo:  
+          1. Go to SCM
+          2. Initialize Repository
+          3. Publish to GitHub
+          4. Sign To GitHub
+          5. Enter username password in Broswer
+          6. Publish to proper repo name
+        
+        Your Existing Repo:
+          1. Go to SCM
+          2. add the changed files
+          3. Commit with a proper message
+              Incase of problem with user.email & user.name enter below cmds with your data,
+                git config --global user.email <your-email>
+                git config --global user.name <your-username>
+          4. Push to proper branch
+        
+      .gitignore - add files or folder to ignore them
+    
+  Deployment:
+    Netlify Deployment:
+      1. Login to Netlify
+      2. Add New Site From Existing Repo
+      3. Select & Authenticate GitHub as SCM provider
+      4. Select specific repo from the GitHub
+      5. Check the build configuration then deploy
+      6. Get the proper url for Your application
+      7. Verify the working of the application in Public URL 
+  
+  RWD ( Responsive Web Design )
+    Make a website look good in all the devices ( all sizes )
+
+    Media Query:
+      Chaining the CSS values based on the sizes of screen ( width of the screen )
+
+
+
+  
