@@ -32,14 +32,13 @@ Topics:
       Remote: Github/Gitlab/Bitbucket
         Cloud system to store the files in Cloud
 
-      VSCode Function similar to Above CMDs:
+      VSCode Functions to push codes to GitHub:
         Fresh New Repo:  
           1. Go to SCM
-          2. Initialize Repository
-          3. Publish to GitHub
-          4. Sign To GitHub
-          5. Enter username password in Broswer
-          6. Publish to proper repo name
+          2. Initialize Repository or Publish to Github
+          3. Sign To GitHub
+          4. Enter username password in Broswer
+          5. Publish to proper repo name
         
         Your Existing Repo:
           1. Go to SCM
@@ -49,8 +48,6 @@ Topics:
                 git config --global user.email <your-email>
                 git config --global user.name <your-username>
           4. Push to proper branch
-        
-      .gitignore - add files or folder to ignore them
     
   Deployment:
     Netlify Deployment:
@@ -60,8 +57,10 @@ Topics:
       4. Select specific repo from the GitHub
       5. Check the build configuration then deploy
       6. Get the proper url for Your application
-      7. Verify the working of the application in Public URL 
+      7. Verify the working of the application in Public URL check path for the files
   
+Next Session:
+  .gitignore - add files or folder to ignore them
   RWD ( Responsive Web Design )
     Make a website look good in all the devices ( all sizes )
 
