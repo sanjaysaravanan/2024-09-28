@@ -80,6 +80,6 @@ Next Session:
     Media Query:
       Chaining the CSS values based on the sizes of screen ( width of the screen )
 
-
-
+Candidates Request:
+  to Discuss more on Branching in Git
   
