@@ -58,7 +58,20 @@ Topics:
       5. Check the build configuration then deploy
       6. Get the proper url for Your application
       7. Verify the working of the application in Public URL check path for the files
-  
+
+Task:
+  Implement a Form which can collect info about User ( name, email, phone ).
+
+    1. Develop the HTML, CSS
+
+    2. Push to Your Github using proper repo name
+
+    3. Deploy the Development using Netlify
+
+  Submit the following,
+    Source Code URL: as https://github.com/<username>/task-2 ( repo url ) 
+    Netlify's Deployed URL: https://roaring-cendol-1fdab3.netlify.app/<proper-html-file>
+
 Next Session:
   .gitignore - add files or folder to ignore them
   RWD ( Responsive Web Design )
